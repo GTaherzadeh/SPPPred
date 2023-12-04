@@ -30,11 +30,11 @@ Please cite the relevant publication if You will use this work.
 
 ## Code Files
 
-- SPPPred_model.py 
-
-- arch2.py
-
-- Utils.py
+• SPPPred_model.py
+• Convert_new_data_to_csv.py
+• Classification2_independent_data2.py
+• Classification2_ data2.py
+• arch2_data2.py
 
 
 
